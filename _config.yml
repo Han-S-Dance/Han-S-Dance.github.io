@@ -20,13 +20,12 @@
 
 theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/light.css"
 locale: en-GB
 title: Han Dance
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  AN INTRO HERE.
+description:  >- # this means to ignore newlines until "baseurl:"
+  A few words here. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -54,7 +53,7 @@ markdown: kramdown
 feed:
   path: atom.xml
 
-paginate: 10
+paginate: 3
 paginate_path: /page:num/
 
 
@@ -77,14 +76,6 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: post
-      comments: false
-      share: false
-  # Recipe defaults
-  - scope:
-      path: "_Portfolio"
-      type: Portfolio
     values:
       layout: post
       comments: false
