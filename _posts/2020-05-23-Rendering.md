@@ -11,7 +11,7 @@ categories: CATEGORY-1 CATEGORY-2
 
 Using RenderMan and its associated API to model and render a scene containing a beauty sponge.
  
-This project was undertaken for the Simulation & Rendering unit of the MSc Computer Animation & Visual Effects Course at Bournemouth University. It was implemented directly in RIB, which was used to execute the Open Shading Language (OSL). The RIB file creates the scene and the beauty sponge from simple geometries, whilst the created OSL file applies displacement to the sponge, to create the final shape and the sponge texture. The OSL file incorporates the use of a parabola to displace the sponge into a teared shape and Perlin Noise to create the sponge effects and rips.  
+This project was undertaken for the Simulation & Rendering unit of the MSc Computer Animation & Visual Effects course at Bournemouth University. It was implemented directly in RIB, which was used to execute the Open Shading Language (OSL). The RIB file creates the scene and the beauty sponge from simple geometries, whilst the created OSL file applies displacement to the sponge, to create the final shape and the sponge texture. The OSL file incorporates the use of a parabola to displace the sponge into a teared shape and Perlin Noise to create the sponge effects and rips.  
  
 The steps to create the beauty sponge are shown below.
 
