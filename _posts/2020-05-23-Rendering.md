@@ -6,7 +6,6 @@ image:
     path: /Images/BB2.png
     thumbnail: /Images/BB2.png
 date: 2020-05-23 20:17:38 +0100
-categories: CATEGORY-1 CATEGORY-2
 ---
 
 Using RenderMan and its associated API to model and render a scene containing a beauty sponge.
